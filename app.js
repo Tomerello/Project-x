@@ -26,7 +26,7 @@ app.get('/create', (req, res) => {
     });
 
 });
-//startar server
+
 const server = app.listen(3000, () =>{
     console.log(`Server started listening on ${server.address().port}`)
 });
