@@ -1,6 +1,9 @@
 # DB connection
 connection.js
 
+#code workspace
+*.code-workspace
+
 # Logs
 logs
 *.log
